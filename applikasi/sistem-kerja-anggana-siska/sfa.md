@@ -1,8 +1,8 @@
 ---
-description: >-
-  Ini adalah dokumentasi tentang applikasi penjualan untuk Sales Direct yang
-  dikenal dengan nama SFA ( Sales Force Automation )
 icon: sellcast
+description: >-
+  Dokumentasi ini berisi panduan implementasi dan cara penggunaan fitur SFA pada
+  applikasi Sistem Kerja Anggana ( SISKA ) dan Daily Activity Report ( DAR )
 ---
 
 # SFA
@@ -21,7 +21,15 @@ Untuk mulai menggunakan applikasi SFA, berikut adalah beberapa langkah yang perl
 
 &#x20;
 
-## Operasional
+## Membuat sales order
+
+
+
+
+
+## Kirim ke Netsuite
+
+
 
 
 
