@@ -23,6 +23,7 @@
   * [SFA](daily-activity-report-dar/sfa.md)
   * [Data Master](daily-activity-report-dar/data-master.md)
 * [Fleet Management System ( FMS )](fleet-management-system-fms.md)
-* [Warehouse Management System ( WMS )](warehouse-management-system-wms.md)
+* [Warehouse Management System ( WMS )](warehouse-management-system-wms/README.md)
+  * [Master Gudang & Bin](warehouse-management-system-wms/master-gudang-and-bin.md)
 * [Mitra Anggana](mitra-anggana/README.md)
   * [Page 1](mitra-anggana/page-1.md)
