@@ -32,3 +32,5 @@
   * [Page 2](warehouse-management-system-wms/page-2.md)
 * [Mitra Anggana](mitra-anggana/README.md)
   * [Page 1](mitra-anggana/page-1.md)
+* [Troubleshooting](troubleshooting.md)
+* [Q & A](q-and-a.md)
