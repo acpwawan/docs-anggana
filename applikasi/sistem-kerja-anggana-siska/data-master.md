@@ -42,3 +42,7 @@ Untuk mengelola data customer DAR dilakukan secara mandiri oleh user pada applik
 
 Master item adalah data seluruh item product yang digunakan untuk transaksi dari mulai Sales Order, sampai dengan inventory. Data ini didapatkan dari Applikasi ERP Netsuite dengan cara di import
 
+
+
+Master Harga
+
