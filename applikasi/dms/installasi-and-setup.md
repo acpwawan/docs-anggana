@@ -1,0 +1,6 @@
+---
+icon: gear
+---
+
+# Installasi & Setup
+
