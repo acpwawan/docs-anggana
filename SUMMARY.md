@@ -33,6 +33,7 @@
   * [Monitoring](applikasi/fleet-management-system-fms/monitoring.md)
   * [Mobile FMS](applikasi/fleet-management-system-fms/mobile-fms.md)
 * [Warehouse Management System ( WMS )](applikasi/warehouse-management-system-wms/README.md)
+  * [Tentang](applikasi/warehouse-management-system-wms/tentang.md)
   * [Master Gudang & Bin](applikasi/warehouse-management-system-wms/master-gudang-and-bin.md)
   * [Alur Proses](applikasi/warehouse-management-system-wms/alur-proses.md)
 * [Mitra Anggana](applikasi/mitra-anggana/README.md)
