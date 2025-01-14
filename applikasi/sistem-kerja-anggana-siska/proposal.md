@@ -12,16 +12,21 @@ description: >-
 
 ## Alur Kerja
 
-
-
 Alur kerja proposal pada applikasi dibagi menjadi 4 bagian yaitu :&#x20;
 
 1. Pembuatan Proposal
-2. Persetujuan Proposal
+2. Review & Persetujuan Proposal
 3. Monitoring / Pelaporan Progress
 4. Pertanggung Jawaban
 
+Pada versi sekarang ini, yang terimplementasi di sistem baru 2 tahap yaitu, Pembuatan Proposal dan Review & Persetujuan Proposal
 
+Alur Proses Proposal :&#x20;
+
+1. Membuat proposal dalam bentuk draft, masih bisa diedit oleh user pembuat ( penyetuju harus sudah ditentukan dengan benar, karena akan digunakan dalam alur review dan persetujuan )
+2. Submit untuk Review, akan muncul di Review Superior1, selanjutnya superior1 akan Review, apabila diperlukan perubahan data, user masih bisa melakan perubahan, tetepi daftar user penyetuju sudah tidak bisa diubah lagi.&#x20;
+3. Superior1 klik selesai Review dianggap juga sebagai bentuk persetujuan, akan masuk ke Review Superior2 dan seterusnya, semua proses tersebut akan mengirimkan email format email Review.
+4. Setelah Reviewer Finance (Reviewer5) selesai Review akan kirim email format approval dilengkapi dengan link token.&#x20;
 
 ### User Akses
 
@@ -33,7 +38,32 @@ Applikasi Proposal bisa digunakan oleh seluruh user yang terdaftar pada applikas
 
 Sebelum anda membuat proposal pada applikasi pastikan anda memiliki cukup informasi untuk di input kedalam proposal.
 
-1. Buka menu Proposal > Proposal
+1.  Buka menu Proposal > Proposal , akan tampil seperti gambar dibawah ini
+
+    <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Daftar Proposal yang masih dalam pembuatan (DRAFT )</p></figcaption></figure>
+2. Di dalam daftar proposal di atas, sebelah kanan ada filter, untuk menampilkan data berdasarkan status, yg berisi pilihan yaitu
+   1. **DRAFT**, data yang tampil adalah yang belum di kirim untuk REVIEW
+   2. **WAITING FOR APPROVAL**, data yang tampil adalah data yg dalam proses REVIEW dan PERSETUJUAN/APPROVAL
+   3. **APPROVED**, data yang tampil adalah dataa yang sudah di APPROVE dan dalam proses eksekusi proposa**l**
+   4. **COMPLETE**, data yang tampil adalah data yang sudah lengkap termasuk pertangungjawaban
+3. Untuk membuat Proposal Baru, klik tombol **Buat baru**,
+4.  Akan tampil form isian Proposal, dan berikut penjelasan petunjuk pengisiannya
+
+    1. Pada Tab Informasi Umum
+       1. Nama Proposal, diisi dengan Nama Proposal
+       2. Nomor, akan otomatis digenerate
+       3. Tanggal, pilihan tanggal proposal ( default akan mengikuti tanggal hari ini )
+       4. Jenis, pilih dari daftar pilihan yang ada sesuai dengan jenis proposalnya ( Pastikan jangan salah pilih )
+       5. Budget, pilih total opsi pilihan total budget yang akan digunakan ( pilihan antara kurang dari 5 juta dan lebih dari 5 juta, akan mempengaruhi penandatangan )
+       6. Penangung Jawab, pilih dari daftar pilihan karyawan anggana sebagai penanggung jawab proposal ini. Penanggung jawab nantinya akan bertanggung jawab dan melakukan updating progress proposal ini
+       7. Diajukan oleh, default terisi oleh user yang sedang membuat
+       8. Departement, pilih dari daftar pilihan departement. Pilihan departemen ini juga akan terkait dengan daftar budget biaya yang dibuat apabila ada.
+       9. Periode awal dan periode akhir, pilih tanggal kapan proposal ini akan berjalan
+       10.
+    2. Pada Tab Latar Belakang dan Mekanisme
+
+    <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+5. Apabila ada proposal dimana di nama proposal-nya tampil kosong, berarti proposal tersebut masih bisa anda gunakan, tinggal klik tombol Edit, untuk kemudian dilengkapi lagi dan di Simpan.
 
 
 

@@ -52,4 +52,5 @@
 * [Troubleshooting](troubleshooting/README.md)
   * [SiskA](troubleshooting/siska.md)
   * [DAR](troubleshooting/dar.md)
+* [What's New](whats-new.md)
 * [Q & A](q-and-a.md)
