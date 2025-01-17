@@ -9,7 +9,7 @@ Eform digunakan untuk akses ke form - form digital yang ada di applikasi SiskA. 
 * NOO ( New Open Outlet ) untuk Netsuite Customer
 * Repair Request&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Tampilan menu Eform</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Tampilan menu Eform</p></figcaption></figure>
 
 
 

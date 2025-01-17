@@ -16,7 +16,7 @@ Data master customer diambil dari Netsuite, di Netsuite telah disediakan laporan
 * Lalu ke menu **Analytics** > **Workbooks** dan pilih **ACP - Customer**,
 * Klik pada icon bergambar kertas
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Download data customer dari Netsuite</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Download data customer dari Netsuite</p></figcaption></figure>
 
 * Yang selanjutnya akan terdownload file dengan ekstensi .CSV
 * Setelah file terdownload lanjutkan dengan buka Applikasi SiskA, lalu buka menu **Data Warehouse**, pilih **Customer**
@@ -24,7 +24,7 @@ Data master customer diambil dari Netsuite, di Netsuite telah disediakan laporan
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Upload CSV dari Netsuite</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Upload CSV dari Netsuite</p></figcaption></figure>
 
 * Untuk Upload data customer ini juga bisa dilakukan dari menu **Applikasi** > **SFA** > **Upload Data Netsuite**
 

@@ -26,14 +26,14 @@ Alur kerja dari applikasi ini adalah sebagai berikut :&#x20;
 
 ## Upload Dokumen SOP / IK / Form
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Gambar tampilan awal kelola Dokumen SOP </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Gambar tampilan awal kelola Dokumen SOP </p></figcaption></figure>
 
 Untuk melakukan upload dokumen SOP / IK / Form, hanya bisa dilakukan oleh user dengan role SOP\_ADMIN. Untuk mulai melakukan upload dokumen,
 
 1. &#x20;Buka Menu **Applikasi**  > **Compliance**,
 2. Kemudian klik tombol **Upload**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Pilih File yang akan di upload,&#x20;
 4. Isikan nama dokumen yang di upload dengan
