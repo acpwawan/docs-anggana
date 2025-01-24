@@ -29,6 +29,8 @@ Form digital dimaksud adalah :&#x20;
 * Form Izin Keluar Kantor
 * Form Lembur
 
+## HR Form
+
 
 
 ## Ketidakhadiran Pegawai
